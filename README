@@ -9,3 +9,18 @@ If the code mappings for the Rohingya code block change between now (May 12, 201
 The release of this keyboard layout should not be construed to imply that Hanifi script is the only or best writing system for Rohingya. Other writing systems for Rohingya exist and are in use, including systems based on Arabic, Latin, and Burmese scripts, and this keyboard layout suite is only meant to provide one of several possible options for typing in Rohingya.
 
 For more information on this project, see this wiki page: https://wikis.swarthmore.edu/ling073/Cdalton2/Final_project
+
+    Copyright (C) 2018 Courtney Dalton
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
