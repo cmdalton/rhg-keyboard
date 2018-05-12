@@ -1,0 +1,11 @@
+Rohingya Hanifi Keyboard Layout Suite
+
+This repository contains Windows, Mac, and Linux (IBus) keyboard layouts created for the Hanifi script used to write the Rohingya (rhg) language
+To install, follow the instructions in the INSTALL file in the subdirectory for your operating system.
+
+NOTES
+The Rohingya code block will be added to Version 11.0 of the Unicode Standard, planned for release in June 2018. Until that happens and the fonts are implemented, the Hanifi characters in these layouts will appear as boxes.
+If the code mappings for the Rohingya code block change between now (May 12, 2018) and the release of Unicode 11.0, these layouts will need to be updated.
+The release of this keyboard layout should not be construed to imply that Hanifi script is the only or best writing system for Rohingya. Other writing systems for Rohingya exist and are in use, including Rohingya Fonna and Rohingyalish, and this keyboard layout suite is only meant to provide one of several possible options for typing in Rohingya.
+
+For more information on this project, see this wiki page: https://wikis.swarthmore.edu/ling073/Cdalton2/Final_project
