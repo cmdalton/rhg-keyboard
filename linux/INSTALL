@@ -1,0 +1,23 @@
+To install the Rohingya Hanifi keyboard layout for Linux:
+
+1. Run the following command to install IBus and the m17n module:
+
+  sudo apt-get install ibus-m17n
+
+2. Run the following command to enable IBus as the default input method:
+
+  im-config -n ibus
+
+3. Log out and log back in to your system. You should now have a small language switcher icon near the time at the top of your screen.
+
+4. Download rhg-hanifi.mim and place it into your usr/share/m17n/ directory.
+
+5. Right-click on the language switcher icon and select "Preferences."
+
+6. Navigate to the "Input Method" tab and click "Add."
+
+7. Click the three dots at the bottom of the list to expand the language selection, then scroll down and click "other."
+
+8. Select "hanifi (m17n)" and click "Add."
+
+You should now be able to select "Other - hanifi (m17n)" when you click on the language switcher.
