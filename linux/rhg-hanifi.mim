@@ -1,4 +1,5 @@
 ;; rhg-hanifi.mim -- input method for Rohingya Hanifi script
+;; Copyright (c) 2018 Courtney Dalton
 
 ;; This file is part of the m17n contrib; a sub-part of the m17n
 ;; library.
