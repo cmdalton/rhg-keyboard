@@ -1,0 +1,47 @@
+Mac keyboard layout for Rohingya Hanifi script
+
+Copyright (C) 2018 Courtney Dalton
+
+
+
+    This program is free software: you can redistribute it and/or modify
+
+    it under the terms of the GNU General Public License as published by
+
+    the Free Software Foundation, either version 3 of the License, or
+
+    (at your option) any later version.
+
+
+
+    This program is distributed in the hope that it will be useful,
+
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+
+    GNU General Public License for more details.
+
+
+
+    You should have received a copy of the GNU General Public License
+
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+To install the Rohingya Hanifi keyboard layout for Mac:
+
+1. Download rhg-hanifi.dmg and double-click on it.
+
+2. Drag rhg-hanifi.bundle to the "Drag here to install" directory.
+
+3. Go to System Preferences and click "Keyboard."
+
+4. Navigate to the "Input Sources" tab.
+
+5. Click the plus button.
+
+6. Find "rhg" in the list of languages.
+
+7. Select the "Hanifi Rohingya" keyboard.
+
+You should now be able to switch to the Hanifi Rohingya keyboard layout.
